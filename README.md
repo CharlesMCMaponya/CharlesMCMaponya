@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Charles Maponya! 👋
+I’m a budding Systems Administrator passionate about automation, cybersecurity, and system monitoring. I love building tools to make IT systems more efficient and secure.
 
-<!--
-**CharlesMCMaponya/CharlesMCMaponya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- [Server Health Check System](https://github.com/CharlesMCMaponya/Server-Health-Check-System): A Python tool for monitoring server health, simulating Active Directory checks, and sending automated email reports.
+- [Vulnerability Scanner](https://github.com/CharlesMCMaponya/vuln_scanner): A Python-based tool to scan for CVEs and Slack alerts.
+- [Bash Automation Scripts](https://github.com/CharlesMCMaponya/Bash-Automation-Scripts): Scripts to automate common sysadmin tasks.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Bash, System Administration, Automation, Cybersecurity, IT Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: CharlesMosehla@outlook.com
