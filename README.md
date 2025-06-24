@@ -1,4 +1,4 @@
-# Hi, I’m Charles Maponya! 👋
+# Hi, I’m Charles Maponya! 
 I’m an IT Specialist passionate about automation, cybersecurity, system monitoring, and network engineering. I love building tools to make IT systems more efficient, secure, and reliable.
 
 ## Projects
